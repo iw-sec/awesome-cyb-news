@@ -21,6 +21,7 @@ GBHackers \| Malware | https://gbhackers.com/category/malware | https://gbhacker
 GBHackers \| Ransomware | https://gbhackers.com/category/ransome | https://gbhackers.com/category/ransome/feed
 Cyber Security News | https://cybersecuritynews.com | https://cybersecuritynews.com/feed/
 Cyber Press | https://cyberpress.org/ | https://cyberpress.org/feed/
+ICHI Internet Cyber Health Index | https://ichi.global | https://ichi.global/api/alerts
 
 <br>
 
